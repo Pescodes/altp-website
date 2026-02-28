@@ -1,8 +1,8 @@
-# Privacy Policy for AltP Autofill
+# Privacy Policy for Alt+P Autofill
 
 **Effective Date:** February 28, 2026
 
-AltP Autofill ("Extension") respects your privacy. This Privacy Policy explains how the Extension handles user data.
+Alt+P Autofill ("Extension") respects your privacy. This Privacy Policy explains how the Extension handles user data.
 
 By installing or using the Extension, you agree to the practices described in this policy.
 
@@ -10,7 +10,7 @@ By installing or using the Extension, you agree to the practices described in th
 
 ## 1. Data Collection and Use
 
-AltP Autofill does **not** collect, transmit, sell, or store user data on external servers.
+Alt+P Autofill does **not** collect, transmit, sell, or store user data on external servers.
 
 ### Local Storage Only
 
@@ -27,7 +27,7 @@ The data is used solely to provide autofill functionality.
 
 ## 2. Permissions and Their Purpose
 
-AltP Autofill requests the following permissions strictly to enable its functionality:
+Alt+P Autofill requests the following permissions strictly to enable its functionality:
 
 ### Storage
 To securely store your saved profile information.
@@ -73,7 +73,7 @@ If you purchase a premium version, payment processing is handled by Paddle, whic
 
 Paddle may collect payment-related information in accordance with its own privacy policy.
 
-AltP Autofill does not collect or store payment details.
+Alt+P Autofill does not collect or store payment details.
 
 ---
 
