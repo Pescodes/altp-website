@@ -16,7 +16,7 @@ To be eligible:
 
 - The request must be submitted within 14 days of purchase.
 - A valid transaction ID or Paddle Order ID must be provided.
-- The purchase must not violate our Terms [TERMS_OF_SERVICE.md].
+- The purchase must not violate our  [**Terms of Service**](TERMS_OF_SERVICE.md).
 
 ---
 
