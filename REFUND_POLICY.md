@@ -24,7 +24,7 @@ To be eligible:
 
 To request a refund, please contact:
 
-**Email:** altpautofill@gmail.com
+**Email:** [altpautofill@gmail.com](mailto:altpautofill@gmail.com)
 
 Please include:
 
@@ -55,7 +55,7 @@ Our order process is conducted by our online reseller Paddle.com. Paddle.com is 
 
 ## 5. Technical Support
 
-Before requesting a refund, we encourage you to contact support at altpautofill@gmail.com. Many technical issues can be resolved quickly through troubleshooting or configuration adjustments.
+Before requesting a refund, we encourage you to contact support at [altpautofill@gmail.com](mailto:altpautofill@gmail.com). Many technical issues can be resolved quickly through troubleshooting or configuration adjustments.
 
 ---
 
