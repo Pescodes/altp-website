@@ -1,4 +1,4 @@
-# Terms of Service for AltP Autofill
+# Terms of Service for Alt+P Autofill
 
 **Last Updated:** February 28, 2026
 
