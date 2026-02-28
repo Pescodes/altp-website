@@ -1,4 +1,4 @@
-# AltP Autofill
+# Alt+P Autofill
 
 AltP Autofill is a high-performance Chrome extension designed to eliminate the friction of repetitive data entry. Built for creators, job hunters, and power users, it simplifies online form filling by allowing users to securely store profile information locally and autofill it instantly.
 
