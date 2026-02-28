@@ -2,19 +2,19 @@
 
 **Last Updated:** February 28, 2026
 
-Welcome to AltP Autofill ("the Extension"). These Terms of Service ("Terms") constitute a legal agreement between you ("the User") and Alt+P Autofill (the Developer). By installing, accessing, or using the Extension, you agree to be bound by these Terms.
+Welcome to Alt+P Autofill ("the Extension"). These Terms of Service ("Terms") constitute a legal agreement between you ("the User") and Alt+P Autofill (the Developer). By installing, accessing, or using the Extension, you agree to be bound by these Terms.
 
 ---
 
 ### 1. License Grant (Licensed, Not Sold)
-AltP Autofill is **licensed, not sold**. Subject to your compliance with these Terms, you are granted a limited, non-exclusive, non-transferable, and revocable license to use the Extension for personal or professional purposes.
+Alt+P Autofill is **licensed, not sold**. Subject to your compliance with these Terms, you are granted a limited, non-exclusive, non-transferable, and revocable license to use the Extension for personal or professional purposes.
 
 * **Ownership:** All intellectual property rights, including source code, design, and branding, remain the exclusive property of the Developer.
 * **Restrictions:** You may not copy, modify, create derivative works of, reverse engineer, or attempt to extract the source code of the Extension.
 * **Commercial Use:** You may not resell, sublicense, or redistribute the Extension or its license keys without express written permission.
 
 ### 2. Nature of the Service
-AltP Autofill is a browser-based productivity tool that automates data entry via scripting.
+Alt+P Autofill is a browser-based productivity tool that automates data entry via scripting.
 * **Data Storage:** The Extension utilizes `chrome.storage.sync`. You acknowledge that while the Developer does not host your data, your profile information is synced across your devices via Google’s synchronization infrastructure.
 * **Operational Disclaimer:** Functionality depends on the structure of third-party websites. Because website code changes frequently, the Developer does not guarantee that the Extension will work on every site or remain compatible with future browser updates.
 
@@ -24,7 +24,7 @@ AltP Autofill is a browser-based productivity tool that automates data entry via
 * **NDPA Compliance:** This Extension adheres to the **Nigeria Data Protection Act (NDPA)** by implementing data minimization; no personal data is processed by the Developer beyond what is necessary for license verification.
 
 ### 4. Third-Party Interactions & Account Safety
-* **No Affiliation:** AltP Autofill is not affiliated with, authorized, or endorsed by any website it interacts with (e.g., LinkedIn, instagram, etc.).
+* **No Affiliation:** Alt+P Autofill is not affiliated with, authorized, or endorsed by any website it interacts with (e.g., LinkedIn, instagram, etc.).
 * **User Risk:** You are responsible for ensuring your use of autofill tools complies with the Terms of Service of third-party websites. The Developer is **not responsible** for any account bans, restrictions, or "bot detection" penalties resulting from the use of this Extension.
 
 ### 5. Payments and Licensing
