@@ -2,7 +2,7 @@
 
 **Effective Date:** February 28, 2026
 
-Thank you for purchasing AltP Autofill.
+Thank you for purchasing Alt+P Autofill.
 
 Because this is a digital product delivered instantly, refunds are subject to the conditions outlined below.
 
