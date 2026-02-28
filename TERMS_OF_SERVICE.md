@@ -28,9 +28,11 @@ Alt+P Autofill is a browser-based productivity tool that automates data entry vi
 * **User Risk:** You are responsible for ensuring your use of autofill tools complies with the Terms of Service of third-party websites. The Developer is **not responsible** for any account bans, restrictions, or "bot detection" penalties resulting from the use of this Extension.
 
 ### 5. Payments and Licensing
-* **Merchant of Record:** Our order process is conducted by our online reseller Paddle.com. **Paddle.com is the Merchant of Record for all our orders.** By purchasing a premium license, you agree to Paddle’s terms and conditions. Paddle handles all customer service inquiries and returns.
-* **Verification:** The Extension may perform periodic pings to Paddle’s API to verify your license status.
-* **Refunds:** We offer a 14-day money-back guarantee. Refund requests submitted within 14 days of purchase will be processed via Paddle. We reserve the right to deny refunds in instances of suspected fraud or license manipulation.
+* **Merchant of Record:** Our order process is conducted by our online reseller Paddle. Paddle is the Merchant of Record for all transactions. This means that when you purchase a license for Alt+P Autofill, you are purchasing from Paddle, and your payment is processed by Paddle.
+By completing a purchase, you agree to Paddle’s Consumer Terms and Conditions.
+* **License Verification:** The Extension may perform periodic verification checks with Paddle’s systems to confirm license validity.
+* **Refunds:** All refund requests are handled by Paddle in accordance with Paddle’s Refund Policy and Consumer Terms. Refunds are provided at Paddle’s sole discretion.
+To request a refund, you must contact Paddle directly through their official support channels.
   
 ### 6. Limitation of Liability
 To the maximum extent permitted by law, the Developer shall not be liable for:
@@ -49,7 +51,8 @@ We reserve the right to revoke your license and terminate access to the Extensio
 3.  Fraudulent payment activity is detected.
 
 ### 9. Governing Law and Jurisdiction
-These Terms are governed by the laws of the **Federal Republic of Nigeria**. You agree that any legal action or dispute arising from these Terms shall be resolved exclusively in the courts located within Nigeria.
+These Terms govern your license and use of the Extension. They are governed by the laws of the Federal Republic of Nigeria.
+Any disputes relating to your use of the Extension (excluding payment disputes handled by Paddle as Merchant of Record) shall be resolved exclusively in the courts located within Nigeria.
 
 ### 10. Changes to Terms
 The Developer may update these Terms at any time. Your continued use of the Extension following the posting of changes constitutes your acceptance of the new Terms.
