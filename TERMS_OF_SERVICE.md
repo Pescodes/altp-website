@@ -58,4 +58,4 @@ The Developer may update these Terms at any time. Your continued use of the Exte
 
 ### Contact Information
 For support, billing, or legal inquiries:
-**Email:** altpautofill@gmail.com
+**Email:** [altpautofill@gmail.com](mailto:altpautofill@gmail.com)
