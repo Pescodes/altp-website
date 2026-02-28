@@ -110,4 +110,4 @@ Continued use of the Extension after updates constitutes acceptance of the revis
 
 If you have any questions about this Privacy Policy, please contact:
 
-Email: altpautofill@gmail.com
+**Email:** [altpautofill@gmail.com](mailto:altpautofill@gmail.com)
