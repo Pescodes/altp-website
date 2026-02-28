@@ -1,4 +1,4 @@
-# Refund Policy for AltP Autofill
+# Refund Policy for Alt+P Autofill
 
 **Effective Date:** February 28, 2026
 
