@@ -26,7 +26,7 @@ Refunds are provided at the sole discretion of Paddle and are handled in accorda
 
 To request a refund, you must contact Paddle directly via their support channels:
 
-https://paddle.com/help
+[https://paddle.com/help](https://paddle.com/help)
 
 Paddle will review refund requests on a case-by-case basis and may refuse refunds in cases of fraud, refund abuse, or other manipulative behavior, as outlined in their terms.
 
@@ -38,7 +38,7 @@ If you experience technical problems preventing or unreasonably delaying deliver
 
 We encourage you to contact us at:
 
-**altpautofill@gmail.com**
+[altpautofill@gmail.com](mailto:altpautofill@gmail.com)
 
 Many technical issues can be resolved quickly through troubleshooting or configuration adjustments.
 
