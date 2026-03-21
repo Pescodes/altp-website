@@ -31,8 +31,7 @@ Alt+P Autofill is a browser-based productivity tool that automates data entry vi
 * **Merchant of Record:** Our order process is conducted by our online reseller Paddle. Paddle is the Merchant of Record for all transactions. This means that when you purchase a license for Alt+P Autofill, you are purchasing from Paddle, and your payment is processed by Paddle.
 By completing a purchase, you agree to Paddle’s Consumer Terms and Conditions.
 * **License Verification:** The Extension may perform periodic verification checks with Paddle’s systems to confirm license validity.
-* **Refunds:** All refund requests are handled by Paddle in accordance with Paddle’s Refund Policy and Consumer Terms. Refunds are provided at Paddle’s sole discretion.
-To request a refund, you must contact Paddle directly through their official support channels.
+* **Refunds:** All purchases of Alt+P are eligible for full refund within 30 days of the original purchase date, no questions asked. Refund requests are handled directly by Paddle through their support channels.
   
 ### 6. Limitation of Liability
 To the maximum extent permitted by law, the Developer shall not be liable for:
